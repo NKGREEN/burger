@@ -14,8 +14,18 @@
   },
   "author": "Nadia Green <green.nadiak@gmail.com>",
   "license": "ISC",
+   "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+
   "bugs": {
     "url": "https://github.com/NKGREEN/burger/issues"
   },
   "homepage": "https://github.com/NKGREEN/burger#readme"
+}
 }
